@@ -7,22 +7,28 @@
 <!-- Google Fonts -->
 <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600" rel="stylesheet">
 
+<!-- NON CRIT VENDOR COMBINED -->
+<link rel="stylesheet" href="../comb/vendor-css.css">
+
 <!-- CSS Global Compulsory -->
-<link rel="stylesheet" href="../assets/vendor/bootstrap/css/bootstrap.css">
+<!-- <link rel="stylesheet" href="../assets/vendor/bootstrap/css/bootstrap.css"> -->
 
 <!-- CSS Implementing Plugins -->
-<link rel="stylesheet" href="../assets/vendor/font-awesome/css/fontawesome-all.min.css">
+<!-- <link rel="stylesheet" href="../assets/vendor/font-awesome/css/fontawesome-all.min.css">
 <link rel="stylesheet" href="../assets/vendor/animate.css/animate.css">
 <link rel="stylesheet" href="../assets/vendor/hs-megamenu/src/hs.megamenu.css">
 <link rel="stylesheet" href="../assets/vendor/slick-carousel/slick/slick.css">
 <link rel="stylesheet" href="../assets/vendor/fancybox/jquery.fancybox.css">
-<link rel="stylesheet" href="../assets/vendor/dzsparallaxer/dzsparallaxer.css">
+
 <link rel="stylesheet" href="../assets/vendor/responsively-lazy/responsivelyLazy.min.css">
 <link rel="stylesheet" href="../assets/vendor/custombox/dist/custombox.min.css">
-<link rel="stylesheet" href="../assets/vendor/cubeportfolio/css/cubeportfolio.min.css">
+<link rel="stylesheet" href="../assets/vendor/cubeportfolio/css/cubeportfolio.min.css"> -->
 
+<link rel="stylesheet" href="../assets/vendor/dzsparallaxer/dzsparallaxer.css">
 <!-- CSS Front Template -->
-<link rel="stylesheet" href="../assets/css/front.css">
+
+<!-- THIS -->
+<!-- <link rel="stylesheet" href="../assets/css/front.css"> -->
 
 <!-- Homescreen Icons-->
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
