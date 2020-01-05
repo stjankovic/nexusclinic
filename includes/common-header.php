@@ -5,10 +5,13 @@
 <link rel="shortcut icon" href="../favicon.ico">
 
 <!-- Google Fonts -->
-<link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600" rel="stylesheet">
+<!-- <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600" rel="stylesheet"> -->
 
 <!-- NON CRIT VENDOR COMBINED -->
-<link rel="stylesheet" href="../comb/vendor-css.css">
+<link rel="stylesheet" href="./comb/vendor-css.css">
+
+<!-- NON CRIT VENDOR COMBINED -->
+<!-- <link rel="stylesheet" href="./comb/crit-vendor-css.css"> -->
 
 <!-- CSS Global Compulsory -->
 <!-- <link rel="stylesheet" href="../assets/vendor/bootstrap/css/bootstrap.css"> -->
@@ -24,7 +27,7 @@
 <link rel="stylesheet" href="../assets/vendor/custombox/dist/custombox.min.css">
 <link rel="stylesheet" href="../assets/vendor/cubeportfolio/css/cubeportfolio.min.css"> -->
 
-<link rel="stylesheet" href="../assets/vendor/dzsparallaxer/dzsparallaxer.css">
+<!-- <link rel="stylesheet" href="../assets/vendor/dzsparallaxer/dzsparallaxer.css"> -->
 <!-- CSS Front Template -->
 
 <!-- THIS -->
