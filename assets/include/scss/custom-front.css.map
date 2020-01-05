@@ -1,0 +1,13 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "custom-front.scss",
+        "custom/_functions.scss",
+        "custom/_variables.scss",
+        "custom/_mixins.scss",
+        "custom/_style.scss"
+    ],
+    "names": [],
+    "file": "custom-front.css"
+}

@@ -8,7 +8,7 @@
 <!-- <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600" rel="stylesheet"> -->
 
 <!-- NON CRIT VENDOR COMBINED -->
-<link rel="stylesheet" href="./comb/vendor-css.css">
+<link rel="stylesheet" href="./comb/crit.css">
 
 <!-- NON CRIT VENDOR COMBINED -->
 <!-- <link rel="stylesheet" href="./comb/crit-vendor-css.css"> -->
