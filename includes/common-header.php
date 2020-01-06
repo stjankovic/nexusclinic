@@ -9,6 +9,7 @@
 
 <!-- NON CRIT VENDOR COMBINED -->
 <link rel="stylesheet" href="./comb/crit.css">
+<link rel="stylesheet" href="../assets/vendor/slick-carousel/slick/slick.css">
 
 <!-- NON CRIT VENDOR COMBINED -->
 <!-- <link rel="stylesheet" href="./comb/crit-vendor-css.css"> -->
@@ -20,7 +21,6 @@
 <!-- <link rel="stylesheet" href="../assets/vendor/font-awesome/css/fontawesome-all.min.css">
 <link rel="stylesheet" href="../assets/vendor/animate.css/animate.css">
 <link rel="stylesheet" href="../assets/vendor/hs-megamenu/src/hs.megamenu.css">
-<link rel="stylesheet" href="../assets/vendor/slick-carousel/slick/slick.css">
 <link rel="stylesheet" href="../assets/vendor/fancybox/jquery.fancybox.css">
 
 <link rel="stylesheet" href="../assets/vendor/responsively-lazy/responsivelyLazy.min.css">
@@ -31,7 +31,7 @@
 <!-- CSS Front Template -->
 
 <!-- THIS -->
-<!-- <link rel="stylesheet" href="../assets/css/front.css"> -->
+<link rel="stylesheet" href="../assets/css/front.css">
 
 <!-- Homescreen Icons-->
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
