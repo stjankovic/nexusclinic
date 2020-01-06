@@ -45,7 +45,7 @@
 <meta name="theme-color" content="#ffffff">
 
 <!-- Drift Chat Widget -->
-<script async>
+<!-- <script async>
 "use strict";
 
 !function() {
@@ -70,7 +70,7 @@ if (!t.init) {
 }();
 drift.SNIPPET_VERSION = '0.3.1';
 drift.load('zcrncp4tbrsb');
-</script>
+</script> -->
 
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-124593606-2"></script>
 
