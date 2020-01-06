@@ -49,6 +49,8 @@
       top: -75px;
       visibility: hidden;
     }
+    /* CAR NEW*/
+    
   </style>
 
 </head>
@@ -62,118 +64,7 @@
   <!-- ========== MAIN ========== -->
   <main id="content" role="main">
 
-    <!-- Images Carousel Section -->
-      <div class="js-slick-carousel u-slick"
-           data-autoplay="true"
-           data-speed="5000"
-           data-pagi-classes="text-center u-slick__pagination u-slick__pagination--white position-absolute-bottom-15">
-        <div class="js-slide divimage u-space-3-top height-is-based-on-content" style="background-image: url(https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/hero/lrg/home-massage.jpg);">
-
-          <div class="animated bounceIn">
-          <!-- Content -->
-          <div class="container position-relative u-space-3-top u-space-3-bottom z-index-2">
-            <div class="w-lg-80 text-center mx-auto">
-              <h1 >
-                <span class="display-4 font-size-48--md-down text-white font-weight-bold">CHIRO</span>
-                <span class="display-4 font-size-48--md-down text-white full-text">&#10072;</span>
-                <span class="display-4 font-size-48--md-down text-white font-weight-bold">MASSAGE</span>
-                <span class="display-4 font-size-48--md-down text-white full-text">&#10072;</span>
-                <span class="display-4 font-size-48--md-down text-white font-weight-bold">PHYSIO</span>
-              </h1>
-              <p class="lead text-white">Located at <span class="font-weight-bold">Yonge & Eglinton</span></p>
-              <div class="u-space-2-top">
-                <a class="btn btn-white u-btn-white u-btn-wide transition-3d-hover" href="https://nexusclinic.clinicsense.com/book" target="blank" onclick="handleClick('bannerBtn');">Book Online Today<span class="fa fa-angle-right font-size-13 ml-2"></span></a>
-              </div>
-            </div>
-          </div>
-          <!-- End Content -->
-          </div>
-
-        </div>
-        <div class="js-slide divimage u-space-3-top height-is-based-on-content" style="background-image: url(https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/hero/lrg/home-chiro.jpg)">
-
-          <div class="animated bounceIn">
-          <!-- Content -->
-          <div class="container position-relative u-space-3-top u-space-3-bottom z-index-2">
-            <div class="w-lg-80 text-center mx-auto">
-              <h1 class="display-4 font-size-48--md-down text-white font-weight-bold">CHIROPRACTIC</h1>
-              <p class="lead text-white"><span class="font-weight-bold">Adjust and Realign</span> your lifestyle with our <span class="font-weight-bold">spinal experts</span> to become your <span class="font-weight-bold">Optimal Self</span>! Enhance your spinal <span class="font-weight-bold">structural and functional integrity</span> to <span class="font-weight-bold">excel and perform better</span>.</p>
-
-              <div class="u-space-1-top">
-                <a class="btn btn-white u-btn-white u-btn-wide transition-3d-hover" href="service/chiropractic">Learn More about Chiropractic<span class="fa fa-angle-right font-size-13 ml-2"></span></a>
-              </div>
-
-            </div>
-          </div>
-          <!-- End Content -->
-          </div>
-
-        </div>
-        <div class="js-slide divimage u-space-3-top height-is-based-on-content" style="background-image: url(https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/hero/lrg/home-physio.jpg);">
-          
-          <div class="animated bounceIn">
-          <!-- Content -->
-          <div class="container position-relative u-space-3-top u-space-3-bottom z-index-2">
-            <div class="w-lg-80 text-center mx-auto">
-              <h1 class="display-4 font-size-48--md-down text-white font-weight-bold">PHYSIOTHERAPY</h1>
-              <p class="lead text-white">Physiotherapists are your <span class="font-weight-bold">body mechanics' experts</span> that can help a <span class="font-weight-bold">wide range of physical ailments</span>, from neurological, cardiorespiratory, to musculoskeletal issues!</p>
-
-              <div class="u-space-1-top">
-                <a class="btn btn-white u-btn-white u-btn-wide transition-3d-hover" href="service/physiotherapy">Learn More about Physiotherapy<span class="fa fa-angle-right font-size-13 ml-2"></span></a>
-              </div>
-
-            </div>
-          </div>
-          <!-- End Content -->
-          </div>
-
-        </div>
-
-        <div class="js-slide divimage u-space-3-top height-is-based-on-content" style="background-image: url(https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/hero/lrg/home-acupuncture.jpg);">
-          
-          <div class="animated bounceIn">
-          <!-- Content -->
-          <div class="container position-relative u-space-3-top u-space-3-bottom z-index-2">
-            <div class="w-lg-80 text-center mx-auto">
-              <h1 class="display-4 font-size-48--md-down text-white font-weight-bold">ACUPUNCTURE</h1>
-              <p class="lead text-white">Are you <span class="font-weight-bold">Stressed, Anxious, or Depressed</span>? Can't <span class="font-weight-bold">Sleep</span>? Come talk to our <span class="font-weight-bold">licensed acupuncturists</span> and <span class="font-weight-bold">get your life back</span> to the way it should be!</p>
-
-              <div class="u-space-1-top">
-                <a class="btn btn-white u-btn-white u-btn-wide transition-3d-hover" href="services">Learn More about Acupuncture<span class="fa fa-angle-right font-size-13 ml-2"></span></a>
-              </div>
-
-            </div>
-          </div>
-          <!-- End Content -->
-          </div>
-
-        </div>
-
-        <div class="js-slide divimage u-space-3-top height-is-based-on-content" style="background-image: url(https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/hero/lrg/home-orthotics.jpg);">
-          
-          <div class="animated bounceIn">
-          <!-- Content -->
-          <div class="container position-relative u-space-3-top u-space-3-bottom z-index-2">
-            <div class="w-lg-80 text-center mx-auto">
-              <h1>
-                <span class="display-4 font-size-48--md-down text-white font-weight-bold">CUSTOM</span>
-                <span class="display-4 font-size-48--md-down text-white font-weight-bold">ORTHOTICS</span>
-              </h1>
-              <p class="lead text-white">Walk through life with <span class="font-weight-bold">confidence & strength</span>!</p>
-
-              <div class="u-space-2-top">
-                <a class="btn btn-white u-btn-white u-btn-wide transition-3d-hover" href="service/orthotics">Learn More about Orthotics<span class="fa fa-angle-right font-size-13 ml-2"></span></a>
-              </div>
-
-            </div>
-          </div>
-          <!-- End Content -->
-          </div>
-
-        </div>
-
-      </div>
-    <!-- End Images Carousel Section -->
+ <!-- CAR WAS HERE -->
 
     <div class="text-white text-center" style="background-color:#FC4237">
       <div class="container p-3 post">
